@@ -1,4 +1,4 @@
-setwd("/Users/mariacecilia/exploratory_data_analysis")
+
 
 data <- read.table("household_power_consumption.txt",
                    header = TRUE,
